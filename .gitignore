@@ -1,3 +1,5 @@
+# Ignore the actual data collection
+CICIDS2017
 
 # Created by https://www.gitignore.io/api/osx,linux,python,windows,jupyternotebook,visualstudiocode
 

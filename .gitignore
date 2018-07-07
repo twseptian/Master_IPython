@@ -1,8 +1,12 @@
 # Ignore the actual data collection
 CICIDS2017
 
-# And ignore any exported Python scripts
+# And ignore any exported Python scripts as well as hard data exports
 *.py
+*.json
+
+# Finally, ignore the logs folder
+logs/
 
 # Created by https://www.gitignore.io/api/osx,linux,python,windows,jupyternotebook,visualstudiocode
 

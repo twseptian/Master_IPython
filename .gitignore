@@ -5,8 +5,9 @@ CICIDS2017
 *.py
 *.json
 
-# Finally, ignore the logs folder
+# Finally, ignore the logs and models folders
 logs/
+models/
 
 # Created by https://www.gitignore.io/api/osx,linux,python,windows,jupyternotebook,visualstudiocode
 

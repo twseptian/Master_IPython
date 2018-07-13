@@ -1,5 +1,6 @@
 # Ignore the actual data collection
 CICIDS2017
+NSL_KDD
 
 # And ignore any exported Python scripts as well as hard data exports
 *.py

@@ -2,6 +2,9 @@
 CICIDS2017
 NSL_KDD
 
+# ignore model documentation artifacts
+*.png
+
 # And ignore any exported Python scripts as well as hard data exports
 *.py
 *.json
@@ -169,6 +172,7 @@ venv.bak/
 .mypy_cache/
 
 ### VisualStudioCode ###
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json

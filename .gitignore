@@ -1,6 +1,7 @@
 # Ignore the actual data collection
 CICIDS2017
 NSL_KDD
+NSL-KDD
 
 # ignore model documentation artifacts
 *.png
